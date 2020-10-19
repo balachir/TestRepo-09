@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30615.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppMvc_Anc31_IndAuth_2", "WebAppMvc_Anc31_IndAuth_2\WebAppMvc_Anc31_IndAuth_2.csproj", "{BF492BAC-947F-45A5-B193-35848FD7EF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF492BAC-947F-45A5-B193-35848FD7EF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF492BAC-947F-45A5-B193-35848FD7EF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF492BAC-947F-45A5-B193-35848FD7EF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF492BAC-947F-45A5-B193-35848FD7EF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5235DDCB-BB27-4A90-9EA4-9F586F5C9ABE}
+	EndGlobalSection
+EndGlobal
